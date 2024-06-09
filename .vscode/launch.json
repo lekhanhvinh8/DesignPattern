@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET 8 Launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/DesignPattern/bin/Debug/net8.0/DesignPattern.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "logging": {
+                "engineLogging": false,
+                "moduleLoad": false
+            },
+            "internalConsoleOptions": "openOnSessionStart"
+        }
+    ]
+}

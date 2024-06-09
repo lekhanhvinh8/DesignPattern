@@ -1,0 +1,14 @@
+C:\learning\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.exe
+C:\learning\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.deps.json
+C:\learning\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.runtimeconfig.json
+C:\learning\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.dll
+C:\learning\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.pdb
+C:\learning\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\learning\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.AssemblyInfoInputs.cache
+C:\learning\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.AssemblyInfo.cs
+C:\learning\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.csproj.CoreCompileInputs.cache
+C:\learning\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.dll
+C:\learning\DesignPattern\DesignPattern\obj\Debug\net8.0\refint\DesignPattern.dll
+C:\learning\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.pdb
+C:\learning\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.genruntimeconfig.cache
+C:\learning\DesignPattern\DesignPattern\obj\Debug\net8.0\ref\DesignPattern.dll
